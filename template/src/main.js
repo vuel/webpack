@@ -13,6 +13,9 @@ import 'element-ui/lib/theme-default/index.css'{{#if_eq lintConfig "airbnb"}};{{
 {{/element}}
 
 Vue.config.productionTip = false{{#if_eq lintConfig "airbnb"}};{{/if_eq}}
+{{#element}}
+Vue.use(ElementUI)
+{{/element}}
 
 /* eslint-disable no-new */
 new Vue({
