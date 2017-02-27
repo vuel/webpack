@@ -1,3 +1,9 @@
+# vuel/webpack
+
+使用了 Element UI 的 Vue.js 项目模板
+
+使用： `vue init vuel/webpack new-project`
+
 # vue-webpack-boilerplate
 
 > A full-featured Webpack setup with hot-reload, lint-on-save, unit testing & css extraction.
