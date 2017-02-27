@@ -96,6 +96,6 @@ module.exports = {
   "completeMessage": `To get started:
 {{^inPlace}}cd {{destDirName}}{{/inPlace}}
 npm install   # or yarn
-npm run dev   # or yarn run dev
+npm run dev   # or yarn dev
 More help: https//vuel.github.io/webpack`
 };
